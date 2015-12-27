@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/and001_hello" />
+            <option value="$PROJECT_DIR$/and002_hello" />
+            <option value="$PROJECT_DIR$/and003_hello" />
+            <option value="$PROJECT_DIR$/and004_hello" />
+            <option value="$PROJECT_DIR$/and005_fragment" />
+            <option value="$PROJECT_DIR$/and006_fragment" />
+            <option value="$PROJECT_DIR$/and007_listview" />
+            <option value="$PROJECT_DIR$/and008_chat" />
+            <option value="$PROJECT_DIR$/and009_fragtheme" />
+            <option value="$PROJECT_DIR$/and010_filesave" />
+            <option value="$PROJECT_DIR$/and011_webview" />
+            <option value="$PROJECT_DIR$/and012_progressbar" />
+            <option value="$PROJECT_DIR$/and013_broadcast" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

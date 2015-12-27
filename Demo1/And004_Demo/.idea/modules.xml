@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/And004_Demo.iml" filepath="$PROJECT_DIR$/And004_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and001_hello/and001_hello.iml" filepath="$PROJECT_DIR$/and001_hello/and001_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and002_hello/and002_hello.iml" filepath="$PROJECT_DIR$/and002_hello/and002_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and003_hello/and003_hello.iml" filepath="$PROJECT_DIR$/and003_hello/and003_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and004_hello/and004_hello.iml" filepath="$PROJECT_DIR$/and004_hello/and004_hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and005_fragment/and005_fragment.iml" filepath="$PROJECT_DIR$/and005_fragment/and005_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and006_fragment/and006_fragment.iml" filepath="$PROJECT_DIR$/and006_fragment/and006_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and007_listview/and007_listview.iml" filepath="$PROJECT_DIR$/and007_listview/and007_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and008_chat/and008_chat.iml" filepath="$PROJECT_DIR$/and008_chat/and008_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and009_fragtheme/and009_fragtheme.iml" filepath="$PROJECT_DIR$/and009_fragtheme/and009_fragtheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and010_filesave/and010_filesave.iml" filepath="$PROJECT_DIR$/and010_filesave/and010_filesave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and011_webview/and011_webview.iml" filepath="$PROJECT_DIR$/and011_webview/and011_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and012_progressbar/and012_progressbar.iml" filepath="$PROJECT_DIR$/and012_progressbar/and012_progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/and013_broadcast/and013_broadcast.iml" filepath="$PROJECT_DIR$/and013_broadcast/and013_broadcast.iml" />
+    </modules>
+  </component>
+</project>

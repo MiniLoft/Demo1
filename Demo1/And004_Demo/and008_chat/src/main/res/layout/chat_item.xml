@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginTop="15dp"
+    >
+
+    <RelativeLayout
+        android:id="@+id/layoutChatFrom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgFrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/renma"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="-3dp"
+
+            />
+        <TextView
+            android:id="@+id/tvFrom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:background="@drawable/chat_from_bg"
+            android:layout_toRightOf="@id/imgFrom"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="15dp"
+            android:text="你不要脸你"
+            android:gravity="center"
+            />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layoutChatTo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imgTo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/xiaohei"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="-3dp"
+            />
+
+        <TextView
+            android:id="@+id/tvTo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:background="@drawable/chat_to_bg"
+            android:layout_toLeftOf="@id/imgTo"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="5dp"
+            android:text="傻逼一个"
+            android:gravity="center"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>
